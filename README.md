@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Eduardo Petry
 
-<!--
-**eduVPetry/eduVPetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharel em Ciência da Computação pela UFSC, com forte base em programação,
+algoritmos e fundamentos teóricos da computação.
+Interesse em desenvolvimento de software, segurança e sistemas.
 
-Here are some ideas to get you started:
+### 🧠 Principais áreas
+- Programação em Python, C e C++
+- Algoritmos e estruturas de dados
+- Compiladores e linguagens formais
+- Segurança em computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em destaque
+Os principais projetos acadêmicos estão fixados abaixo 👇
+
+### 🌍 Idiomas
+- Português: nativo
+- Inglês: fluente
+
+### 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/eduardovpetry
+- Email: eduvp97@gmail.com
